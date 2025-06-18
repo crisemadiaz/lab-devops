@@ -44,3 +44,4 @@ for var, value in github_vars.items():
 
 print()
 print("✅ Análisis completado exitosamente en GitHub Actions!")
+print("Se agrega o quita línea para probar la automatización")
